@@ -1,5 +1,5 @@
 {
-  "name": "@pebblecode/react-dropdown",
+  "name": "react-dropdown-fork-15",
   "version": "2.0.0",
   "description": "React dropdown component",
   "main": "dist/index.js",
